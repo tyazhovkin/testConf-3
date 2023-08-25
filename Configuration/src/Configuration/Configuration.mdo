@@ -40,4 +40,5 @@
   </languages>
   <commonModules>CommonModule.ОбщийМодуль</commonModules>
   <catalogs>Catalog.Справочник</catalogs>
+  <documents>Document.Документ</documents>
 </mdclass:Configuration>
